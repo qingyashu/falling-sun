@@ -1,0 +1,27 @@
+  - Sound 
+    - bgm
+    - death sound (done) 
+    - jump sound (done)
+
+  - player -> ball
+    - rolling 
+  - hold -> square (done)
+  
+  - keyboard (done) 
+    - space --> holding
+    - left / right arrow --> direction 
+  - mobile 
+    - touch --> holding 
+    - accelerate detect --> direction 
+
+  - UI
+    - score canvas
+    - death canvas
+      - death score
+      - replay
+    - quit button
+ 
+  - Game Appeal
+    - Background 
+    - Player
+    - Floor --> cloud 
